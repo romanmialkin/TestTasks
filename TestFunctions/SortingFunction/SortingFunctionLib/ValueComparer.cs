@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SortingFunction
+namespace SortingFunction.Lib
 {
     public class ValueComparer : IComparer<Tuple<int, int>>
     {

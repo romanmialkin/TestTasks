@@ -1,3 +1,7 @@
 TestFunctions/SortingFunction/.vs/
 TestFunctions/SortingFunction/SortingFunction/bin/
 TestFunctions/SortingFunction/SortingFunction/obj/
+/TestFunctions/SortingFunction/SortingFunction.Test/obj
+/TestFunctions/SortingFunction/SortingFunction.Test/bin/Debug/netcoreapp2.1
+/TestFunctions/SortingFunction/SortingFunctionLib/obj
+/TestFunctions/SortingFunction/SortingFunctionLib/bin/Debug/netcoreapp2.1
