@@ -18,7 +18,7 @@ namespace SortingFunction.Test
                 yield return new SortingFunctionTestCaseData(new[] { 0, 3 }, 0, new[] { -1, 0, 0, -1 }, -2);
                 yield return new SortingFunctionTestCaseData(new[] { 1, 3 }, 0, new[] { 0, 2, 2, 1 }, 3);
                 yield return new SortingFunctionTestCaseData(new[] { 1, 3 }, 0, new[] { 1, 5, 12, 5 }, 10);
-                yield return new SortingFunctionTestCaseData(new[] { 1, 2 }, 0, new[] { 1, 5, 12, 4 }, 10);
+                yield return new SortingFunctionTestCaseData(new[] { 1, 3 }, 0, new[] { 1, 5, 12, 4 }, 9);
             }
         }
         public static IEnumerable<SortingFunctionTestCaseData> ExpectedIndexesForNegativeTests
